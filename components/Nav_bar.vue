@@ -62,7 +62,7 @@
           </NuxtLink>
         </li>
         <li
-          else="$isUserLoggedIn.value"
+          v-else
           class="text-white bg-[#2B1F51] w-full md:w-40 p-2 text-center rounded-lg cursor-pointer"
           @click="handleLogout"
         >
