@@ -40,42 +40,42 @@
 <script setup>
 const cards = [
   {
-    icon: "_nuxt/assets/icons/security-icon.svg",
+    icon: "/assets/icons/security-icon.svg",
     alt: "Security Icon",
     title: "الحماية من عمليّات الاختراق والبرامج الخبيثة",
     description:
       "قم بحماية موقعك من البرامج الضارة ومنع محاولات الاختراق وهجمات استغلال الثغرات Zero-Day وهجمات تخمين كلمة المرور Brute Force.",
   },
   {
-    icon: "_nuxt/assets/icons/performance-icon.svg",
+    icon: "/assets/icons/performance-icon.svg",
     alt: "Performance Icon",
     title: "التخفيف من هجمات DDoS",
     description:
       "قم بتكوين المجموعات الخاصة بك وإدارتها ونشرها بسرعة في خطوات بسيطة وبدون وقت يُذكر.",
   },
   {
-    icon: "_nuxt/assets/icons/gear-icon.svg",
+    icon: "/assets/icons/gear-icon.svg",
     alt: "Gear Icon",
     title: "تحسين أداء الموقع عبر CDN",
     description:
       "تعمل شبكة توصيل المحتوى (CDN) الخاصة بنا على تحسين سرعة تحميل الصفحة وتقليل أحمال الخادم بنسبة 80٪ في المتوسط لتحسين أداء موقعك.",
   },
   {
-    icon: "_nuxt/assets/icons/growth-icon.svg",
+    icon: "/assets/icons/growth-icon.svg",
     alt: "Growth Icon",
     title: "زيادة نمو الأعمال",
     description:
       "قم بتحسين تجربة المستخدم وزيادة سرعة الموقع لتحفيز نمو الأعمال وزيادة الإيرادات.",
   },
   {
-    icon: "_nuxt/assets/icons/ease-to-use-icon.svg",
+    icon: "/assets/icons/ease-to-use-icon.svg",
     alt: "Ease of Use Icon",
     title: "سهولة الاستخدام",
     description:
       "نحن نقدم واجهة سهلة الاستخدام لتكوين وإدارة ميزات الأمان والأداء بسرعة.",
   },
   {
-    icon: "_nuxt/assets/icons/visitors-icon.svg",
+    icon: "/assets/icons/visitors-icon.svg",
     alt: "Visitors Icon",
     title: "تحليل الزوار",
     description:

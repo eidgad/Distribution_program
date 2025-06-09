@@ -48,19 +48,19 @@
 <script setup>
   const cards = [
     {
-      dir: "_nuxt/assets/kuber-icons/arrow.svg",
+      dir: "/assets/kuber-icons/arrow.svg",
       title: "حظر البريد الإلكتروني غير المصرح به",
       description:
         "قم بتكوين المجموعات الخاصة بك وإدارتها ونشرها بسرعة في خطوات بسيطة وبدون وقت يُذكر.",
     },
     {
-      dir: "_nuxt/assets/kuber-icons/shield.svg",
+      dir: "/assets/kuber-icons/shield.svg",
       title: "حظر البريد الإلكتروني غير المصرح به",
       description:
         "قم بتكوين المجموعات الخاصة بك وإدارتها ونشرها بسرعة في خطوات بسيطة وبدون وقت يُذكر.",
     },
     {
-      dir: "_nuxt/assets/kuber-icons/stair.svg",
+      dir: "/assets/kuber-icons/stair.svg",
       title: "حظر البريد الإلكتروني غير المصرح به",
       description:
         "قم بتكوين المجموعات الخاصة بك وإدارتها ونشرها بسرعة في خطوات بسيطة وبدون وقت يُذكر.",

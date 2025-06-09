@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container w-full sm:w-[90%] lg:w-[75%] h-auto mx-auto flex flex-col lg:flex-row justify-center lg:justify-end px-4 py-8 sm:px-6 items-center sm:bg-cover  bg-center bg-no-repeat" style="background-image: url('_nuxt/assets/vendor.svg');">
+    <div class="container w-full sm:w-[90%] lg:w-[75%] h-auto mx-auto flex flex-col lg:flex-row justify-center lg:justify-end px-4 py-8 sm:px-6 items-center sm:bg-cover  bg-center bg-no-repeat" style="background-image: url('/assets/vendor.svg');">
       <!-- Text Container -->
       <div class="text-white px-4 sm:px-6 mt-10 sm:mt-16 lg:mt-20 text-center lg:text-right lg:w-150">
         <h2 class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold mb-4 sm:mb-6 lg:mb-8">
